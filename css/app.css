@@ -1,0 +1,40 @@
+.panel-body-list {
+    padding:0px;
+}
+
+.list-group-panel {
+    margin-bottom:0px;
+}
+
+.btn-list{
+    margin: 0;
+}
+
+.p-list{
+    margin: auto;
+    padding-right: 2.5%;
+}
+
+ol > li{
+    padding-bottom: 2%;
+}
+
+.desc{
+    text-indent: 1.5cm;
+}
+
+.dropdown-menu li > a{
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+}
+
+.dropdown-menu li a.active{
+    background-color: #9c27b0;
+    color: #FFFFFF;
+}
+
+.col-form{
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
